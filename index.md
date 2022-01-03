@@ -1,5 +1,8 @@
 # Covid waste water project
 
+![This is an image](https://www.wiki.ed.ac.uk/download/attachments/508952658/covid%20virus%202.jpg?version=1&modificationDate=1633949158000&api=v2)
+
+
 Severe acute respiratory syndrome coronavirus 2 (SARS‑CoV‑2) is the virus that causes the respiratory illness COVID-19, responsible for the ongoing COVID-19 pandemic.
 
 Studies of infected patients have shown that SARS-CoV-2 RNA can be detected in the faeces of patients for weeks after the onset of clinical signs.
